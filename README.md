@@ -1,4 +1,4 @@
-Debate-DataSets_NAACL13_Qiu-Yang-Jiang
+Debate-DataSets_NAACL13
 ======================================
 /**
 Copyright (C) 2013 by
